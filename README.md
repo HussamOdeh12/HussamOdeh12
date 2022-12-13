@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hodeh90@gmail.com**
 
-- 📄 Know about my experiences: [My CV](https://www.canva.com/design/DAFToszxb9Q/mrXBVPjLucVAg57SvwvbcA/view?utm_content=DAFToszxb9Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences: [Click Here](https://www.canva.com/design/DAFToszxb9Q/mrXBVPjLucVAg57SvwvbcA/view?utm_content=DAFToszxb9Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
