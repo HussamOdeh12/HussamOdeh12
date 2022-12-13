@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
 <h3 align="center">Front-End Developer motivated and fresh graduate with skills of commitment and design web pages, Passionate about learning and development with a desire to apply any new skills. 
 </h3>
----
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif">
 
