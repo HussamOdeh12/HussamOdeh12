@@ -1,4 +1,4 @@
-![MasterHead](https://share.creavite.co/IDP9rparouncgHfz.gif)
+![logo](https://share.creavite.co/IDP9rparouncgHfz.gif)
 <h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
 <h3 align="center">Front-End Developer motivated and fresh graduate with skills of commitment and design web pages, Passionate about learning and development with a desire to apply any new skills. 
 </h3>
