@@ -6,8 +6,6 @@
 
  - My Projects: <br> <br> RedStore: [Live](https://hussamodeh12.github.io/RedStore/) / [Code](https://github.com/HussamOdeh12/RedStore) <br> Moderno: [Live](https://hussamodeh12.github.io/Moderno/) / [Code](https://github.com/HussamOdeh12/Moderno) <br> Max: [Live](https://hussamodeh12.github.io/Max/) / [Code](https://github.com/HussamOdeh12/Max) <br> Leon: [Live](https://hussamodeh12.github.io/Leon_Template/) / [Code](https://github.com/HussamOdeh12/Leon_Template) <br> Kasper: [Live](https://hussamodeh12.github.io/Kasper_Template/) / [Code](https://github.com/HussamOdeh12/Kasper_Template) <br> World Template: [Live](https://hussamodeh12.github.io/World_Template/) / [Code](https://github.com/HussamOdeh12/World_Template) <br> FromScratch: [Live](https://hussamodeh12.github.io/FromScratch/) / [Code](https://github.com/HussamOdeh12/FromScratch) <br> Eduford: [Live](https://hussamodeh12.github.io/Eduford/) / [Code](https://github.com/HussamOdeh12/Eduford) <br> Delivery: [Live](https://hussamodeh12.github.io/Delivery/) / [Code](https://github.com/HussamOdeh12/Delivery) <br> Bondi_Bootstrap: [Live](https://hussamodeh12.github.io/Bootstrap5_Bondi/) / [Code](https://github.com/HussamOdeh12/Bootstrap5_Bondi) <br> Learn_Bootstrap: [Live](https://hussamodeh12.github.io/Learn_Bootstrap/) / [Code](https://github.com/HussamOdeh12/Learn_Bootstrap)
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **hodeh90@gmail.com**
 
 - 📄 Know about my experiences: [Click Here](https://www.canva.com/design/DAFToszxb9Q/mrXBVPjLucVAg57SvwvbcA/view?utm_content=DAFToszxb9Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
