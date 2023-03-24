@@ -1,4 +1,4 @@
-![Login](https://github.com/HussamOdeh12/HussamOdeh12/blob/main/github_banner.png width="100")<h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
+![Login](https://github.com/HussamOdeh12/HussamOdeh12/blob/main/github_banner.png)<h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
 <h3 align="center">Front-End Developer motivated and fresh graduate with skills of commitment and design web pages, Passionate about learning and development with a desire to apply any new skills. 
 </h3>
 <br>
