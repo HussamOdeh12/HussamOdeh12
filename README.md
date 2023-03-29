@@ -14,8 +14,8 @@
 
 ⭐ Extra skills: <br>
 
-✅ PSD to HTML <br>
 ✅ Git <br>
+✅ PSD to HTML <br>
 
 <hr>
 
