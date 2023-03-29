@@ -10,12 +10,12 @@
 ✅ JavaScript <br>
 ✅ SASS <br>
 ✅ Bootstrap <br>
+✅ Responsive to all displays <br>
 
 ⭐ Extra skills: <br>
 
 ✅ PSD to HTML <br>
 ✅ Git <br>
-✅ Responsive to all displays <br>
 
 <hr>
 
