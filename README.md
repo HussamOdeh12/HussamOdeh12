@@ -6,16 +6,13 @@
 ⭐ My technical skills: <br>
 
 ✅ HTML5 <br>
+✅ PSD to HTML <br>
 ✅ CSS <br>
 ✅ JavaScript <br>
 ✅ SASS <br>
 ✅ Bootstrap <br>
-✅ Responsive to all displays <br>
-
-⭐ Extra skills: <br>
-
 ✅ Git <br>
-✅ PSD to HTML <br>
+✅ Responsive to all displays <br>
 
 <hr>
 
