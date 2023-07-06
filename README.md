@@ -25,9 +25,9 @@
 
 <hr>
 
-📫 How to reach me **hodeh90@gmail.com**
+📫 How to reach me => **hodeh90@gmail.com**
 
-📄 Know about my experiences: [Click Here](https://flowcv.com/resume/dok2182n94)
+📄 Know about my experiences => [Click Here](https://flowcv.com/resume/dok2182n94)
 
 <hr>
 
