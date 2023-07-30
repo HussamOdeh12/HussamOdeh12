@@ -6,7 +6,7 @@
 
 <hr>
 
-⭐ My technical skills: <br>
+⭐ My Skills: <br>
 
 ✅ HTML5 <br>
 ✅ PSD to HTML <br>
