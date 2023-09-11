@@ -11,13 +11,14 @@
 ✅ HTML5 <br>
 ✅ PSD to HTML <br>
 ✅ CSS <br>
+✅ SASS <br>
 ✅ JavaScript <br>
 ✅ React.js <br>
 ✅ Node.js <br>
 ✅ Express.js <br>
 ✅ MongoDB <br>
 ✅ Material-UI <br>
-✅ SASS <br>
+✅ Tailwind CSS <br>
 ✅ Bootstrap <br>
 ✅ Git <br>
 ✅ Figma <br>
