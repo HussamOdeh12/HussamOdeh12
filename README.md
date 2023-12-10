@@ -23,6 +23,7 @@
 ✅ Git <br>
 ✅ Figma <br>
 ✅ Responsive to all displays <br>
+✅ MS Office <br>
 
 <hr>
 
