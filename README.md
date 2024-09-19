@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png)<h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
+![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)<h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
 <h3 align="center" color="white">Full-Stack Web Developer, eager to create impactful web applications. Dedicated to learning and growing in the field, with a focus on delivering clean and efficient code. Passionate about leveraging JavaScript to build engaging and responsive websites.
 </h3> <br>
 
