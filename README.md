@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="github-banner.svg" alt="Hussam Odeh banner" />
+<p align="center">
+  <a href="https://github.com/HussamOdeh12">
+    <img width="100%" src="https://svg-banners.vercel.app/api?type=origin&text1=Hussam%20Odeh&text2=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Data%20%26%20Automation%20Specialist&width=1200&height=300" alt="Hussam Odeh Banner" />
+  </a>
+</p>
 
 # Hi, I'm Hussam Odeh 👋
 
