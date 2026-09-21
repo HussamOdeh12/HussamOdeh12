@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:14b8a6&text=Hussam%20Odeh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Data%20%26%20Automation%20Specialist&descAlignY=58&animation=fadeIn" alt="Hussam Odeh banner" />
+<img width="100%" src="github-banner.svg" alt="Hussam Odeh banner" />
 
 # Hi, I'm Hussam Odeh 👋
 
