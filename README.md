@@ -1,55 +1,200 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)<h1 align="center">Hi 👋, I'm Hussam Odeh</h1>
-<h3 align="center" color="white">Full-Stack Web Developer, eager to create impactful web applications. Dedicated to learning and growing in the field, with a focus on delivering clean and efficient code. Passionate about leveraging JavaScript to build engaging and responsive websites.
-</h3> <br>
+<div align="center">
 
-⭐ My Projects: <br> <br> ✅ Portfolio-Website-2026: [Live](https://portfolio-website-2026-psi.vercel.app/) / [Code](https://github.com/HussamOdeh12/portfolio_website_2026) <br> ✅ Elite-Password: [Live](https://hussamodeh12.github.io/Elite-Password/) / [Code](https://github.com/HussamOdeh12/Elite-Password) <br> ✅ Swift-Chat: [Code](https://github.com/HussamOdeh12/Swift-Chat) <br> ✅ Aspa-Tasks: [Code](https://github.com/HussamOdeh12/Aspa-Tasks) <br> ✅ Cyborg-Gaming: [Live](https://hussamodeh12.github.io/cyborg-gaming/) / [Code](https://github.com/HussamOdeh12/cyborg-gaming) <br> ✅ Album-Layout: [Live](https://hussamodeh12.github.io/album-layout/) / [Code](https://github.com/HussamOdeh12/album-layout) <br> ✅ RedStore: [Live](https://hussamodeh12.github.io/RedStore/) / [Code](https://github.com/HussamOdeh12/RedStore) <br> ✅ Moderno: [Live](https://hussamodeh12.github.io/Moderno/) / [Code](https://github.com/HussamOdeh12/Moderno) <br> ✅ Max: [Live](https://hussamodeh12.github.io/Max/) / [Code](https://github.com/HussamOdeh12/Max) <br> ✅ Leon: [Live](https://hussamodeh12.github.io/Leon_Template/) / [Code](https://github.com/HussamOdeh12/Leon_Template) <br> ✅ Kasper: [Live](https://hussamodeh12.github.io/Kasper_Template/) / [Code](https://github.com/HussamOdeh12/Kasper_Template) <br> ✅ World-Template: [Live](https://hussamodeh12.github.io/World_Template/) / [Code](https://github.com/HussamOdeh12/World_Template) <br> ✅ FromScratch: [Live](https://hussamodeh12.github.io/FromScratch/) / [Code](https://github.com/HussamOdeh12/FromScratch) <br> ✅ Eduford: [Live](https://hussamodeh12.github.io/Eduford/) / [Code](https://github.com/HussamOdeh12/Eduford) <br> ✅ Bondi-Bootstrap: [Live](https://hussamodeh12.github.io/Bootstrap5_Bondi/) / [Code](https://github.com/HussamOdeh12/Bootstrap5_Bondi) <br> ✅ Learn-Bootstrap: [Live](https://hussamodeh12.github.io/Learn_Bootstrap/) / [Code](https://github.com/HussamOdeh12/Learn_Bootstrap)
+# Hussam Odeh
 
-<hr>
+### Full Stack Developer · Software Engineer · Data & Automation Specialist
 
-⭐ My Skills: <br>
+Building modern web applications, backend workflows, database-integrated tools, and automation solutions with **JavaScript, React, Node.js, Python, SQL Server, and MongoDB**.
 
-✅ HTML5 <br>
-✅ PSD to HTML <br>
-✅ CSS <br>
-✅ SASS <br>
-✅ JavaScript <br>
-✅ React.js <br>
-✅ Node.js <br>
-✅ Express.js <br>
-✅ MongoDB <br>
-✅ Material-UI <br>
-✅ Tailwind CSS <br>
-✅ Bootstrap <br>
-✅ Git <br>
-✅ Figma <br>
-✅ Responsive to all displays <br>
-✅ MS Office <br>
+[![Developer Portfolio](https://img.shields.io/badge/Developer_Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://hussam-developer-portfolio.vercel.app/)
+[![Data Portfolio](https://img.shields.io/badge/Data_Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://hussam-data-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussam_Odeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussam-odeh/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hussamfahmi.work@gmail.com)
 
-<hr>
+**Abu Dhabi, United Arab Emirates**
 
-📫 How to reach me => **hussamfahmi.work@gmail.com**
+</div>
 
-📄 Know about my experiences => [Click Here](https://flowcv.com/resume/dok2182n94)
+---
 
-<hr>
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hussam-odeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussam odeh" height="30" width="40" /></a>
-<a href="https://instagram.com/hussam_odeh9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussam_odeh9" height="30" width="40" /></a>
-<a href="http://wa.link/epc5d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hussam_odeh9" height="30" width="40" /></a>
-<a href="https://fb.com/hussam.odeh.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussam odeh" height="30" width="40" /></a>
- <a href="https://codepen.io/hussamodeh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hussamodeh12" height="30" width="40" /></a>
- <a href="https://www.behance.net/hussamodeh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hussamodeh2" height="30" width="40" /></a>
-<a href="https://dribbble.com/HussamOdeh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hussamodeh2" height="30" width="40" /></a>
+I am a **Full Stack Developer and Software Engineer** with a strong foundation in modern web development, backend workflows, databases, and automation.
+
+I currently work as a **Data Analyst at Abu Dhabi Municipality**, where I work with operational data, SQL Server, Power BI, TAMM CRM, Excel, validation workflows, and reporting. This experience complements my software-development background with practical exposure to real operational systems, structured data, reliability, and automation.
+
+My development work spans **React, Node.js, Express.js, Python, Streamlit, SQL Server, MongoDB, REST APIs, and modern frontend tooling**. I also use **OpenAI Codex and OpenCode** as part of my engineering workflow for code review, debugging, testing, and iterative development.
+
+- **Current role:** Data Analyst — Abu Dhabi Municipality
+- **Development focus:** Full Stack Applications, Software Engineering, Python Automation, Database Integration
+- **Engineering approach:** Clean architecture, reusable components, responsive design, accessibility, performance, and maintainability
+- **Academic background:** Bachelor of Internet Technology — Zarqa University, **1st in cohort**, GPA **84.3 / 100**
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### Frontend
 
-<hr>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hussamodeh12&show_icons=true&locale=en" alt="hussamodeh12" /></p>
+### Backend & Automation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussamodeh12&" alt="hussamodeh12" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+</p>
 
+### Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SSMS-SQL_Server_Management_Studio-CC2927?style=flat-square" alt="SSMS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+</p>
+
+### Engineering Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/OpenCode-AI_Assisted_Engineering-334155?style=flat-square" alt="OpenCode" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **Hussam Developer Portfolio** | Modern developer portfolio built with Next.js, React, TypeScript, Tailwind CSS, motion, and Three.js. | [Live](https://hussam-developer-portfolio.vercel.app/) · [Code](https://github.com/HussamOdeh12/Hussam-Developer-Portfolio) |
+| **Hussam Data Portfolio** | Dedicated data portfolio presenting data-analysis, BI, reporting, SQL Server, and automation capabilities. | [Live](https://hussam-data-portfolio.vercel.app/) · [Code](https://github.com/HussamOdeh12/Hussam-Data-Portfolio) |
+| **Mustasharcom** | Bilingual corporate website for an Abu Dhabi IT consultancy, built with Next.js, React, TypeScript, and Tailwind CSS. | [Live](https://mustasharcom.vercel.app/) · [Code](https://github.com/HussamOdeh12/Mustasharcom) |
+| **MustasharLand** | Modern engineering-consultancy portfolio website built with Next.js, React, TypeScript, and Tailwind CSS. | [Live](https://mustasharland.vercel.app/) · [Code](https://github.com/HussamOdeh12/MustasharLand) |
+| **ADM DataFlow** | Internal data-processing, automation, and reporting application built with Python, Streamlit, SQL Server, SQLAlchemy, pyodbc, and openpyxl. | **Internal project — source not public** |
+| **Swift Chat** | Real-time chat application built with React, Node.js, Material-UI, and ChatEngine.io. | [Code](https://github.com/HussamOdeh12/Swift-Chat) |
+| **Aspa Tasks** | Collaborative task-management application built with React, Node.js, MongoDB, and Material-UI. | [Code](https://github.com/HussamOdeh12/Aspa-Tasks) |
+| **Elite Password** | React/Vite password-generation application focused on creating strong, configurable passwords. | [Live](https://hussamodeh12.github.io/Elite-Password/) · [Code](https://github.com/HussamOdeh12/Elite-Password) |
+
+> Explore all repositories at **[github.com/HussamOdeh12](https://github.com/HussamOdeh12?tab=repositories)**.
+
+---
+
+## ADM DataFlow
+
+**ADM DataFlow** is one of my key technical projects: an internal data-processing, automation, and reporting application developed with **Python and Streamlit**.
+
+It supports structured Excel-processing workflows, validation, SQL Server integration, reporting, and reusable automation components.
+
+**Core technologies:** `Python` · `Streamlit` · `SQL Server` · `SQLAlchemy` · `pyodbc` · `openpyxl`
+
+> The source repository is not public because the project is designed for internal operational use.
+
+---
+
+## Professional Experience
+
+### Abu Dhabi Municipality
+
+**Data Analyst** · Jun 2026 — Present
+
+- Work with operational data, SQL Server Management Studio, Power BI, TAMM CRM, Excel, SQL, and structured validation workflows.
+- Support data preparation, reconciliation, reporting, and automation across municipal digital-service operations.
+- Apply technical and programming skills to improve repeatable data-processing workflows.
+
+**Technical Support — TAMM & SmartHub Platforms** · Jan 2024 — Jun 2026
+
+- Supported digital service submissions across UAE government platforms.
+- Investigated platform issues, submission errors, and technical workflow problems.
+- Provided structured guidance on platform requirements and digital-service processes.
+
+---
+
+## Education & Training
+
+**Bachelor of Internet Technology** — Zarqa University  
+Sep 2018 — Jul 2022 · **Ranked 1st in Cohort · GPA: 84.3 / 100**
+
+**Selected training**
+
+- **Full-Stack JavaScript Upskilling Program** — Aspire EPIC Academy
+- **1 Million Prompters** — Dubai Future Foundation
+- **Web Development & Design Course** — EFE Jordan
+- **Flutter Developer Internship** — Mobile Application Development
+
+---
+
+## What I Focus On
+
+```text
+Frontend        React · Next.js · TypeScript · Tailwind CSS · Material-UI
+Backend         Node.js · Express.js · Python · Streamlit · REST APIs
+Databases       SQL Server · MongoDB · SQLAlchemy
+Automation      Python · Excel Processing · Validation · Workflow Automation
+Engineering     Git · GitHub · Debugging · Testing · Code Review
+AI Tooling      OpenAI Codex · OpenCode
+```
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HussamOdeh12&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Hussam Odeh GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HussamOdeh12&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/hussam-odeh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hussam_Odeh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hussamfahmi.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hussamfahmi.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://hussam-developer-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Developer_Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white" alt="Developer Portfolio" />
+  </a>
+  <a href="https://hussam-data-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Data_Portfolio-Visit-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Data Portfolio" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+**Full Stack Development · Software Engineering · Data & Automation**
+
+</div>
